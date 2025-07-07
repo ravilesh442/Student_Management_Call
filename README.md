@@ -68,23 +68,6 @@ A real-time chat interface built with **CometChat**:
 
 ## 📂 Project Structure
 
-root/
-├── backend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── config/
-│ └── server.js
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── context/
-│ │ ├── customHooks/
-│ │ ├── styles/
-│ │ └── utils/
-│ └── App.tsx
-└── README.md
-
 yaml
 Copy code
 
@@ -149,26 +132,6 @@ Use it as your password when pushing via HTTPS
 
 📝 License
 This project is licensed under the MIT License.
-
-🙌 Credits
-CometChat
-
-React
-
-Node.js
-
-MySQL
-
-📷 Screenshots
-(Add screenshots or GIFs here to demonstrate UI and functionality)
-
-yaml
-Copy code
-
 ---
 
-Let me know if you'd like a downloadable `.md` file or want to include **Docker**, **deployment instructions**, or a **Postman collection** for the API.
-
-
-Ask ChatGPT
 
